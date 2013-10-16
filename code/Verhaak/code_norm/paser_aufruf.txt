@@ -1,0 +1,1 @@
+python ./parse_agilent_files_totalProbeSignal.py  "/home/valentina/Documents/HiWi_Hom/miRNA_analysis/data/Verhaak/TCGA/202miRNA_Level1/logbuch.txt" "/home/valentina/Documents/HiWi_Hom/miRNA_analysis/data/Verhaak/TCGA/202miRNA_Level1" "hsa" "miRNA" "/home/valentina/Documents/HiWi_Hom/miRNA_analysis/data/Verhaak/TCGA/202raw_miRNA.csv"

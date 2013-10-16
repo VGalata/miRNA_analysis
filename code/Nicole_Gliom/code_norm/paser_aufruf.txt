@@ -1,0 +1,1 @@
+python ./parse_agilent_files_totalProbeSignal.py  "logbuch_20130828.txt" "/home/valentina/Documents/HiWi_Hom/miRNA_analysis/data/Nicole_Gliom/miRNA Daten ContraCancrum" "hsa" "miRNA" "norm_miRNA.csv"
